@@ -2,5 +2,9 @@ Duke.java
  Duke
 Launcher.java
  Launcher
+Main.java
+ Main
+MainWindow.java
+ MainWindow
 DialogBox.java
  DialogBox
